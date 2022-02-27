@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1645870349 source:c:\users\ped\onedrive\desktop\kuliah le\asd\sorting\tugasdikelas\tugaskelas\main.c
+	<stdio.h>
+
+1645884394 source:c:\users\ped\onedrive\desktop\kuliah le\asd\sorting\tugasdikelas\tugaskelasinsertion\main.c
+	<stdio.h>
+	<stdlib.h>
+
